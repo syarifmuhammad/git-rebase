@@ -12,5 +12,6 @@ func main() {
 		fmt.Println(Pow(2, 3))
 		fmt.Println(Sqrt(16))
 		fmt.Println(Sqrt(81))
+		fmt.Println(Add(10, 20))
 	}
 }
