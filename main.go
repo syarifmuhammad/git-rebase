@@ -10,5 +10,6 @@ func main() {
 		fmt.Println(Mul(4, 5))
 		fmt.Println(dif(10, 2))
 		fmt.Println(Pow(2, 3))
+		fmt.Println(Sqrt(16))
 	}
 }
