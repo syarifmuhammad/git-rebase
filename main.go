@@ -9,5 +9,6 @@ func main() {
 		fmt.Println(Reduce(5, 2))
 		fmt.Println(Mul(4, 5))
 		fmt.Println(dif(10, 2))
+		fmt.Println(Pow(2, 3))
 	}
 }
