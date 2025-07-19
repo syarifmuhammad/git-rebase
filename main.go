@@ -13,5 +13,6 @@ func main() {
 		fmt.Println(Sqrt(16))
 		fmt.Println(Sqrt(81))
 		fmt.Println(Add(10, 20))
+		fmt.Println("Sqrt function added and used in main")
 	}
 }
